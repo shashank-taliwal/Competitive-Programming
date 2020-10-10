@@ -23,7 +23,7 @@ ll i;
 int main()
 {
     fast;
-
+// this for fast input output
     test
     {
         ll n,x,y,k;
@@ -36,7 +36,7 @@ int main()
         else
         {
             set<ll>s1;
-
+// set is used to maintain ascending order of unique element
             s1.insert(x);
             ll flag=0;
 
